@@ -1,0 +1,9 @@
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\bin\Debug\ClientServerTCP.exe.config
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\bin\Debug\ClientServerTCP.exe
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\bin\Debug\ClientServerTCP.pdb
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.csprojResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.Form1.resources
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.Properties.Resources.resources
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.csproj.GenerateResource.Cache
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.exe
+c:\users\bilal\documents\visual studio 2013\Projects\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.pdb
